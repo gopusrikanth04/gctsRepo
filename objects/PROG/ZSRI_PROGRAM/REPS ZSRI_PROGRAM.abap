@@ -5,4 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT ZSRI_PROGRAM.
 
-WRITE: 'Hello world  testing 2'.
+WRITE: 'Hello world  testing 7'.
