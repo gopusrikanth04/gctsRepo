@@ -5,4 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT ZSRI_PRO.
 
-write: 'hello world'.
+write: 'hello world 1'.
